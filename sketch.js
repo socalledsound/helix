@@ -7,7 +7,7 @@ var count=0;
 
 function setup() {
   // frameRate(3);
-  createCanvas(800,800);
+  createCanvas(1200,1200);
 translate(500,500);
   for(var i=0;i<numCircles;i++) {
   var xVal = cos(i/2*5);
