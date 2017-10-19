@@ -28,7 +28,7 @@ translate(500,500);
 }
 
 function draw() {
-background(color(random(255),random(255),random(255)));
+background(random(255));
 translate(500,500);
 count = count+0.001;
   for(var i=0;i<numCircles;i++) {
