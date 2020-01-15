@@ -2,4 +2,4 @@
 helix animation sketch
 https://socalledsound.github.io/helix/
 
-~[helix](helix-crowd.jpeg)
+![helix](helix-crowd.jpeg)
